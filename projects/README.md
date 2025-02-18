@@ -1,3 +1,3 @@
 ## Мои проекты
   ### SQL проект по базе данных бронирование авибилетов
-  [Подробнее о проекте](/projects/SQL project/README.md
+  [Подробнее о проекте](/projects/SQL project/README.md)
