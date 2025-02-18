@@ -1,3 +1,3 @@
 ## Мои проекты
   ### SQL проект по базе данных бронирование авибилетов
-  [Подробнее о проекте](https://github.com/Kor-Konstantin/Kor-Konstantin.github.io/tree/99bd7ae45c7e98753f98ee394be8d3fdd63af07d/projects/SQL%20project)
+  [Подробнее о проекте](https://github.com/Kor-Konstantin/Kor-Konstantin.github.io/tree/d42415181856b8d5ed4eba8402fc3f7f5d9c6297/projects/SQL%20project)
