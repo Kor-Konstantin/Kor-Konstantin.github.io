@@ -23,5 +23,4 @@
 Схема данных:
 ![Диаграмма схемы данных](https://github.com/Kor-Konstantin/Kor-Konstantin.github.io/blob/5c99226618be0452ed6eb3ad796c92a3197a8a21/projects/SQL%20project/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D1%85%D0%B5%D0%BC%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png)
 
-![Диаграмма схемы данных](./projects/SQL%20project/Диаграмма%20схемы%20данных.png)
 
