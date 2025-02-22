@@ -11,3 +11,6 @@
 
 ### Итоговый проект по курсу «Tableau: анализ и визуализация данных»
   [Подробнее о проекте](/projects/video_game_sales_analysis)
+
+### Учебный проект «Исследование удовлетворенности клиентов Бразильского E-Commerce»
+  [Подробнее о проекте](/projects/Customer_Satisfaction_Research)
